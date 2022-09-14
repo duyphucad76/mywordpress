@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'oswald';
+					src: url('https://duyphucad76.github.io/mywordpress/wp-content/uploads/useanyfont/6455Oswald.woff2') format('woff2'),
+						url('https://duyphucad76.github.io/mywordpress/wp-content/uploads/useanyfont/6455Oswald.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.oswald{font-family: 'oswald' !important;}
+
+		
