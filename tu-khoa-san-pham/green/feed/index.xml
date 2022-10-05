@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Green</title>
+	<atom:link href="https://duyphucad76.github.io/mywordpress/tu-khoa-san-pham/green/feed/" rel="self" type="application/rss+xml" />
+	<link>https://duyphucad76.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Oct 2022 03:20:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>The orange juice test</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/the-orange-juice-test/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/the-orange-juice-test/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:20:43 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=507</guid>
+
+					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/the-orange-juice-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Impressive benefits of tomatoes</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/impressive-benefits-of-tomatoes/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/impressive-benefits-of-tomatoes/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:07:03 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=494</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/impressive-benefits-of-tomatoes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Eggplant</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/eggplant/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/eggplant/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 02:43:16 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=478</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/eggplant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
