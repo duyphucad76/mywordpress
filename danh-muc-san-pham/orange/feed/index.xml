@@ -12,8 +12,8 @@
 	<atom:link href="https://duyphucad76.github.io/mywordpress/danh-muc-san-pham/orange/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyphucad76.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Oct 2022 03:20:43 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Thu, 13 Oct 2022 07:43:47 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -34,6 +34,25 @@
 </div>]]></content:encoded>
 					
 					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/the-orange-juice-test/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Clean fresh fruit</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/clean-fresh-fruit/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/clean-fresh-fruit/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:17:36 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=502</guid>
+
+					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/clean-fresh-fruit/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

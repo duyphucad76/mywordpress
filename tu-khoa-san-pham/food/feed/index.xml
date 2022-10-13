@@ -12,14 +12,71 @@
 	<atom:link href="https://duyphucad76.github.io/mywordpress/tu-khoa-san-pham/food/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyphucad76.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Oct 2022 16:06:28 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Thu, 13 Oct 2022 07:54:36 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Green apple</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/green-apple/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/green-apple/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 07:53:44 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=771</guid>
+
+					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/green-apple/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fresh vegetable</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/fresh-vegetable/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/fresh-vegetable/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 00:55:55 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=710</guid>
+
+					<description><![CDATA[We applaud their efforts, but you don’t have to commit to dumpster-diving to live a foraging-friendly lifestyle. One of the best ways to incorporate some freeganism into your life is to take advantage of the wild fruits in your area.]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/fresh-vegetable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lemon</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/lemon/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/lemon/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 00:52:23 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=709</guid>
+
+					<description><![CDATA[We applaud their efforts, but you don’t have to commit to dumpster-diving to live a foraging-friendly lifestyle. One of the best ways to incorporate some freeganism into your life is to take advantage of the wild fruits in your area.]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/lemon/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chili garlic</title>
 		<link>https://duyphucad76.github.io/mywordpress/san-pham/chili-garlic-2/</link>
 					<comments>https://duyphucad76.github.io/mywordpress/san-pham/chili-garlic-2/#respond</comments>
@@ -58,63 +115,6 @@
 		
 			</item>
 		<item>
-		<title>Concord seedless grape</title>
-		<link>https://duyphucad76.github.io/mywordpress/san-pham/concord-seedless-grape-2/</link>
-					<comments>https://duyphucad76.github.io/mywordpress/san-pham/concord-seedless-grape-2/#respond</comments>
-		
-		<dc:creator><![CDATA[dphucs]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 16:05:10 +0000</pubDate>
-				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=554</guid>
-
-					<description><![CDATA[Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis.  Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus]]></description>
-										<content:encoded><![CDATA[<div class="nolwrap"><p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
-<p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
-</div>]]></content:encoded>
-					
-					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/concord-seedless-grape-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Apple</title>
-		<link>https://duyphucad76.github.io/mywordpress/san-pham/apple-2/</link>
-					<comments>https://duyphucad76.github.io/mywordpress/san-pham/apple-2/#respond</comments>
-		
-		<dc:creator><![CDATA[dphucs]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 16:05:02 +0000</pubDate>
-				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=551</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua]]></description>
-										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
-<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
-</div>]]></content:encoded>
-					
-					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/apple-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>An orange a day</title>
-		<link>https://duyphucad76.github.io/mywordpress/san-pham/an-orange-a-day-2/</link>
-					<comments>https://duyphucad76.github.io/mywordpress/san-pham/an-orange-a-day-2/#respond</comments>
-		
-		<dc:creator><![CDATA[dphucs]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 16:01:56 +0000</pubDate>
-				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=545</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.]]></description>
-										<content:encoded><![CDATA[<div class="nolwrap"><p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
-<p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
-</div>]]></content:encoded>
-					
-					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/an-orange-a-day-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>An orange a day</title>
 		<link>https://duyphucad76.github.io/mywordpress/san-pham/an-orange-a-day/</link>
 					<comments>https://duyphucad76.github.io/mywordpress/san-pham/an-orange-a-day/#respond</comments>
@@ -148,25 +148,6 @@
 </div>]]></content:encoded>
 					
 					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/concord-seedless-grape/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chili garlic</title>
-		<link>https://duyphucad76.github.io/mywordpress/san-pham/chili-garlic/</link>
-					<comments>https://duyphucad76.github.io/mywordpress/san-pham/chili-garlic/#respond</comments>
-		
-		<dc:creator><![CDATA[dphucs]]></dc:creator>
-		<pubDate>Wed, 05 Oct 2022 03:24:44 +0000</pubDate>
-				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=512</guid>
-
-					<description><![CDATA[Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula.]]></description>
-										<content:encoded><![CDATA[<div class="nolwrap"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
-<p>Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
-</div>]]></content:encoded>
-					
-					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/chili-garlic/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -13,7 +13,7 @@
 	<link>https://duyphucad76.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Wed, 07 Sep 2022 13:29:52 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -46,7 +46,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.3 - 29-08-2022 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://duyphucad76.github.io/mywordpress">
-							<img width="229" height="54" src="https://duyphucad76.github.io/mywordpress/wp-content/uploads/2022/08/logo-1.png" class="attachment-medium size-medium" alt="" loading="lazy" />								</a>
+							<img src="https://duyphucad76.github.io/mywordpress/wp-content/plugins/elementor/assets/images/placeholder.png" title="" alt="" />								</a>
 															</div>
 				</div>
 					</div>
