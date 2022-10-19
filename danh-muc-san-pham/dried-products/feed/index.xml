@@ -12,7 +12,7 @@
 	<atom:link href="https://duyphucad76.github.io/mywordpress/danh-muc-san-pham/dried-products/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyphucad76.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Thu, 13 Oct 2022 08:02:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 16:40:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,29 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Chill pepper</title>
+		<link>https://duyphucad76.github.io/mywordpress/san-pham/chill-pepper/</link>
+					<comments>https://duyphucad76.github.io/mywordpress/san-pham/chill-pepper/#respond</comments>
+		
+		<dc:creator><![CDATA[dphucs]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 16:40:40 +0000</pubDate>
+				<guid isPermaLink="false">https://duyphucad76.github.io/mywordpress/?post_type=product&#038;p=824</guid>
+
+					<description><![CDATA[<div class="woocommerce-product-details__short-description">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div class="nolwrap"><p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel maximus lacus. Duis ut mauris eget justo dictum tempus sed vel tellus. Vestibulum sit amet maximus turpis.</p>
+<p class="desc">Cras suscipit placerat dignissim. Morbi cursus, mauris sed placerat rutrum, ante risus dictum elit, dictum feugiat lectus lacus eget felis. Suspendisse nec ipsum in sapien faucibus convallis nec sit amet metus. Phasellus at lacus non libero molestie euismod non ut ligula. Etiam nec turpis eget odio laoreet elementum et vitae risus.</p>
+</div>]]></content:encoded>
+					
+					<wfw:commentRss>https://duyphucad76.github.io/mywordpress/san-pham/chill-pepper/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Fresh vegetable</title>
 		<link>https://duyphucad76.github.io/mywordpress/san-pham/fresh-vegetable/</link>
 					<comments>https://duyphucad76.github.io/mywordpress/san-pham/fresh-vegetable/#respond</comments>
