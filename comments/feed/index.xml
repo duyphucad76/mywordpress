@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho 	</title>
+	Comments for 	</title>
 	<atom:link href="https://duyphucad76.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://duyphucad76.github.io/mywordpress</link>
 	<description></description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
-		Phản hồi cho Tất tần tật về &#8220;Quỷ Vương&#8221; Faker bởi test		</title>
+		Comment on Tất tần tật về &#8220;Quỷ Vương&#8221; Faker by test		</title>
 		<link>https://duyphucad76.github.io/mywordpress/tat-tan-tat-ve-quy-vuong-faker/#comment-11</link>
 
 		<dc:creator><![CDATA[test]]></dc:creator>
